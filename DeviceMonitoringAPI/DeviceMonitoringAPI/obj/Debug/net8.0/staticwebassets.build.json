@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "YvqykrJZG7Jf54vQBAgx2mRy53N4VzbTqUhe8MzQihI=",
+  "Source": "DeviceMonitoringAPI",
+  "BasePath": "_content/DeviceMonitoringAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

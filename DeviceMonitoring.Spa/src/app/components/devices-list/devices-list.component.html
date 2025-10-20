@@ -1,0 +1,7 @@
+<li *ngFor="let device of devices" class="list-group-item d-flex justify-content-between">
+  <span>
+    <strong>{{ device.name || device.id }}</strong> 
+    (ID: {{ device.id }})
+  </span>
+  <a [routerLink]="['/details', device.id]" class="btn btn-sm btn-primary">Детали</a>
+</li>
